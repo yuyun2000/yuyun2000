@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![my_github](https://github-readme-stats.vercel.app/api?username=yuyun2000)
+![code](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyun2000&layout=compact)
+
 <!--
 **yuyun2000/yuyun2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
